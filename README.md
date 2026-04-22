@@ -6,7 +6,7 @@ Este proyecto contiene la resolución de distintos ejercicios enfocados en el us
 
 ## 🌐 Demo del proyecto
 
-🚀 Puedes verlo aquí: [Ver proyecto en vivo](https://tuproyecto.com)
+🚀 Puedes verlo aquí: (https://tacgozca2024-arch.github.io/semana09/)
 
 ## 🎯 Objetivo
 
